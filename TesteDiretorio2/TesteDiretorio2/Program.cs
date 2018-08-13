@@ -11,6 +11,7 @@ namespace TesteDiretorio2
         static void Main(string[] args)
         {
             Console.WriteLine("Testando o diretorio 2!");
+            Console.WriteLine("Inserindo a segunda linha diretorio 2");
             Console.ReadKey();
         }
     }
